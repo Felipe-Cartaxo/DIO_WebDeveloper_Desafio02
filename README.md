@@ -1,6 +1,4 @@
-# Curso de Web Developer - DIO
-
-### Desafio 02
+# Curso de Web Developer (DIO) - Desafio 02
 
 ### Objetivo
 
